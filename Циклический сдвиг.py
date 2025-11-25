@@ -12,4 +12,5 @@ def min_shift(S, T):
 S = "abcdz"
 T = "zabcd"
 shift = min_shift(S, T)
+
 print(shift)  
